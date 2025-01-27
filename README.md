@@ -1,1 +1,3 @@
-# 2025-1-26-learning-about-version-control
+# Learning about Version Control
+
+Author: ZiXun Fang
